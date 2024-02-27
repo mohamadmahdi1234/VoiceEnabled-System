@@ -1,0 +1,18 @@
+a:link {
+    text-decoration: none;
+}
+.navbar {
+    background-color: #333; 
+  }
+  
+.div_flex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    justify-content: left;
+    margin-left: 0px;
+    height: 100%;
+    column-gap: 5px;
+
+}
